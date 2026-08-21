@@ -1,0 +1,9 @@
+{
+  "appId": "com.quizverse.app",
+  "appName": "QUIZVERSE",
+  "webDir": "www",
+  "backgroundColor": "#0F172A",
+  "android": {
+    "backgroundColor": "#0F172A"
+  }
+}

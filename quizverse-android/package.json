@@ -1,0 +1,18 @@
+{
+  "name": "quizverse",
+  "version": "1.0.0",
+  "private": true,
+  "description": "QUIZVERSE — Challenge Your Mind. Beat Your Best.",
+  "scripts": {
+    "add:android": "cap add android",
+    "sync": "cap sync",
+    "open:android": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/android": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
