@@ -1,5 +1,5 @@
 /* ============================================================
-   QUIZVERSE — Service Worker
+   QUIZVERSE — Service Worker 
    Offline-capable PWA app shell (cache-first with network update)
    ============================================================ */
 'use strict';
